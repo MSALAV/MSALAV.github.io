@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "CA48G65VLF.ru.s7.s7app",
+                "paths": [ "/home/external/s7-apps-redirect.dot"]
+            },
+        ]
+    }
+}
